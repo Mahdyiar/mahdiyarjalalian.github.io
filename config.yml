@@ -15,11 +15,11 @@ languages:
       main:
       - name: "رزومه"
         weight: 200
-        url: "/resume/"
+        url: "fa/resume/"
         identifier: "resume"
       - name: "تماس"
         weight: 250
-        url: "/contact/"
+        url: "fa/contact/"
         identifier: "contact"
     params:
       author: "مهدیار جلالیان"
