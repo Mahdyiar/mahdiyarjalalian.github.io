@@ -69,14 +69,6 @@ li p {
     }
 }
 
-.sidebar {
-    background-color: #134B70;
-}
-
-.site__description {
-    color: #ffffff;
-}
-
 /*
  * RTL support
  */
@@ -123,9 +115,43 @@ html[lang=fa-ir] table * {
     direction: ltr !important;
     text-align: left !important;
 }
-/*
- * end RTL support
- */
 
+.sidebar {
+    background-color: #3e4e5e; 
+    color: #ffffff; 
+    padding: 1rem; 
+    border-radius: 8px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
 
- 
+.sidebar a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.sidebar a:hover {
+    color: #ffcc00; /* Highlight links on hover with a yellow shade */
+}
+
+/* Optional: if there are any titles or headers inside the sidebar */
+.sidebar h2, .sidebar h3 {
+    color: #ffcc00; /* Use yellow for headers */
+}
+
+/* Adjusted .site__description for better readability */
+.site__description {
+    color: #e0e0e0; /* Slightly lighter text for description */
+}
+
+/* Adjust sidebar when in RTL mode */
+html[lang=fa-ir] .sidebar {
+    background-color: #3e4e5e; /* Keep same background color for consistency */
+    color: #ffffff; /* Ensure white text */
+}
+html[lang=fa-ir] .sidebar {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-top-left-radius: 8px; /* Reset to rounded corners on the left */
+    border-bottom-left-radius: 8px; /* Reset to rounded corners on the left */
+}
