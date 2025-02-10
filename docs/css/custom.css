@@ -1,0 +1,157 @@
+@import "iransans.css";
+
+body {
+    background: #fcfcfc;
+}
+
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: IRANSans !important;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #d3d3d3;
+    margin: 50px 0;
+}
+
+
+h2 {
+    margin-top: 55px
+}
+
+h3 {
+    margin-top: 45px
+}
+
+.site__title {
+    font-size: 1.4rem !important;
+    display: block;
+    margin-bottom: 30px;
+}
+
+.site__description {
+    font-size: 1rem !important;
+}
+
+li p:last-child {
+    margin: 0 0 25px !important;
+}
+
+li p {
+    margin: 0 0 5px !important;
+}
+
+.post__meta br:first-child {
+    display: none;
+}
+
+.img--headshot {
+    height: 200px;
+    width: 200px;
+}
+
+
+@media (min-width: 768px) {
+    .layout-reverse .content {
+        margin-left: 2rem;
+        margin-right: 20rem;
+    }
+}
+
+@media (min-width: 992px) {
+    .layout-reverse .content {
+        margin-left: 4rem;
+        margin-right: 20rem;
+    }
+
+    .content {
+        max-width: 55rem;
+    }
+}
+
+/*
+ * RTL support
+ */
+html[lang=fa-ir] {
+    direction: rtl;
+}
+
+html[lang=fa-ir] h1 {
+    font-size: 1.85rem;
+}
+
+html[lang=fa-ir] h2 {
+    font-size: 1.4rem;
+}
+
+html[lang=fa-ir] h3 {
+    font-size: 1.35rem;
+}
+
+html[lang=fa-ir] .layout-reverse .sidebar {
+    direction: ltr;
+}
+
+html[lang=fa-ir] .project__summary,
+html[lang=fa-ir] th {
+    text-align: right;
+}
+
+html[lang=fa-ir] .content article header,
+html[lang=fa-ir] .section__title {
+    display: block;
+    border-bottom: 1px solid #d3d3d3;
+    padding-bottom: 20px;
+}
+
+html[lang=fa-ir] .section__title {
+    font-size: 1.85rem;
+    margin: 40px 0 50px;
+    padding-bottom: 40px;
+}
+
+html[lang=fa-ir] table,
+html[lang=fa-ir] table * {
+    direction: ltr !important;
+    text-align: left !important;
+}
+
+.sidebar {
+    background-color: #3e4e5e; 
+    color: #ffffff; 
+    padding: 1rem; 
+    border-radius: 8px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.sidebar a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.sidebar a:hover {
+    color: #ffcc00; /* Highlight links on hover with a yellow shade */
+}
+
+/* Optional: if there are any titles or headers inside the sidebar */
+.sidebar h2, .sidebar h3 {
+    color: #ffcc00; /* Use yellow for headers */
+}
+
+/* Adjusted .site__description for better readability */
+.site__description {
+    color: #e0e0e0; /* Slightly lighter text for description */
+}
+
+/* Adjust sidebar when in RTL mode */
+html[lang=fa-ir] .sidebar {
+    background-color: #3e4e5e; /* Keep same background color for consistency */
+    color: #ffffff; /* Ensure white text */
+}
+html[lang=fa-ir] .sidebar {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-top-left-radius: 8px; /* Reset to rounded corners on the left */
+    border-bottom-left-radius: 8px; /* Reset to rounded corners on the left */
+}
