@@ -1,3 +1,3 @@
 # Mahdiyar Jalalian
 
-[mahdiyarjalalian.github.io](https://mahdiyarjalalian.github.io)
+[mahdiyarjalalian.github.io](https://mahdyiar.github.io/mahdiyarjalalian.github.io/)
