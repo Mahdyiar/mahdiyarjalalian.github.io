@@ -1,4 +1,4 @@
-baseURL: "https://mahdiyarjalalian.github.io/"
+baseURL: "https://mahdyiar.github.io/"
 theme: "hyde-hyde"
 publishDir: "docs"
 
