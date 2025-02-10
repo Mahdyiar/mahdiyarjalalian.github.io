@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>مهدیار جلالیان</title>
-    <link>https://mahdyiar.github.io/fa/</link>
+    <link>https://mahdyiar.github.io/mahdiyarjalalian.github.io/fa/</link>
     <description>Recent content on مهدیار جلالیان</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa-ir</language>
-    <lastBuildDate>Mon, 02 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://mahdyiar.github.io/fa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://mahdyiar.github.io/mahdiyarjalalian.github.io/fa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>درس‌آپ</title>
-      <link>https://mahdyiar.github.io/fa/portfolio/darsup/</link>
+      <link>https://mahdyiar.github.io/mahdiyarjalalian.github.io/fa/portfolio/darsup/</link>
       <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mahdyiar.github.io/fa/portfolio/darsup/</guid>
+      <guid>https://mahdyiar.github.io/mahdiyarjalalian.github.io/fa/portfolio/darsup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>تماس</title>
-      <link>https://mahdyiar.github.io/fa/contact/</link>
+      <link>https://mahdyiar.github.io/mahdiyarjalalian.github.io/fa/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mahdyiar.github.io/fa/contact/</guid>
+      <guid>https://mahdyiar.github.io/mahdiyarjalalian.github.io/fa/contact/</guid>
       <description> شماره همراه: 09307344268 ایمیل: mahdiyarjalalian827@gmail.com لینکدین: کلیک کنید گیت هاب: کلیک کنید تلگرام: کلیک کنید  </description>
     </item>
     
     <item>
       <title>رزومه من</title>
-      <link>https://mahdyiar.github.io/fa/resume/</link>
+      <link>https://mahdyiar.github.io/mahdiyarjalalian.github.io/fa/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mahdyiar.github.io/fa/resume/</guid>
+      <guid>https://mahdyiar.github.io/mahdiyarjalalian.github.io/fa/resume/</guid>
       <description>درباره من من مهدیار جلالیان، یک برنامه‌نویس فرانت‌اند با ۲ سال تجربه در توسعه و بهینه‌سازی اپلیکیشن‌های وب در مقیاس بزرگ هستم. تخصص من در طراحی و پیاده‌سازی رابط‌های کاربری مدرن و با عملکرد بالا با استفاده از جدیدترین تکنولوژی‌های فرانت‌اند است.
 تخصص‌ها  تکنولوژی‌های فرانت‌اند: React، Next.js، TypeScript، Vue.js، Vite، Nx monorepos مدیریت وضعیت و مدیریت فرم: Redux، React Query، Zustand، React Hook Form، Yup، Zod طراحی رابط کاربری و استایل‌دهی: MUI، Ant Design، Bootstrap، Tailwind CSS ابزارهای اضافی: Context API، JWT، Socket.</description>
     </item>
