@@ -27,7 +27,7 @@ Collaboration and continuous learning are at the heart of my work. Whether leadi
 
 ## Experiences (+2 yrs)  
 
-### **Mid-Level Frontend Developer**  
+### **Frontend Developer**  
 **Mehr-e Pars ICT** | Aug 2023 -present | Tehran, Tehran Province, Iran  
 
 - **Lead frontend development** for key projects, ensuring high performance and scalability.  
